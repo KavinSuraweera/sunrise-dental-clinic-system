@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sunrise Dental Clinic Management System
 
 A secure web-based appointment, patient and billing management system developed for Sunrise Dental Clinic in Colombo.
@@ -45,3 +46,7 @@ The application follows a three-tier architecture:
 - Student ID: st20374211
 - Module: CIS6003 Advanced Programming
 - Assessment: WRIT1
+=======
+# sunrise-dental-clinic-system
+CIS6003 Advanced Programming - Sunrise Dental Clinic appointment and patient management system
+>>>>>>> origin/main
